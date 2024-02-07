@@ -1,6 +1,6 @@
 # Measuring Neutron Star Radius with second and third generation Gravitational Wave Detector Networks
 
-**Ananya Bandopadhyay<sup>1</sup>, Keisi Kacanja<sup>1</sup>, Alexander H. Nitz<sup>1</sup>, Duncan A. Brown<sup>1</sup>, Rahul Somasundaram<sup>1,2</sup>**
+**Ananya Bandopadhyay<sup>1</sup>, Keisi Kacanja<sup>1</sup>, Rahul Somasundaram<sup>1,2</sup>, Alexander H. Nitz<sup>1</sup>, Duncan A. Brown<sup>1</sup>**
 
 **<sup>1</sup>Department of Physics, Syracuse University, Syracuse, NY 13244, USA**
 
@@ -24,7 +24,7 @@ Following is a summary of the scripts, data and other supplementary material inc
 
 * `configurations` : Directory containing base configuration files (in `.ini` format) for creating injections, running inference jobs, and describing custom detector configurations. The `uniform_radius_nsat.cache` ASCII file included within this directory is read during parameter-estimation runs, for sampling over the equations of state.
 
-* `psds` : Directory containing noise curves used for custom detectors, A$^{\sharp}$ (taken from https://dcc.ligo.org/LIGO-T2300041/public), a 20km Cosmic Explorer (CE20) and a 40km Cosmic Explorer (CE40) (taken from  https://dcc.cosmicexplorer.org/CE-T2000017).
+* `psds` : Directory containing noise curves used for custom detectors, $\rm A^{\sharp}$ (taken from https://dcc.ligo.org/LIGO-T2300041/public), a 20km Cosmic Explorer (CE20) and a 40km Cosmic Explorer (CE40) (taken from  https://dcc.cosmicexplorer.org/CE-T2000017).
 
 * `posteriors_files` : Directory containing compressed files for the inferred posterior distributions for the radius of a $1.4 M_{\odot}$ neutron star, used for the EoS-inference analysis. 
 
