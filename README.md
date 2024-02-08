@@ -6,7 +6,7 @@
 
 **<sup>2</sup>Theoretical Division, Los Alamos National Lab, Los Alamos, NM 87545, USA**
 
-This repository is a companion data release. The preprint version of the paper is available on [arXiv](https://arxiv.org/abs/2402.).
+This repository is a companion data release. The preprint version of the paper is available on [arXiv](https://arxiv.org/abs/2402.05056).
 
 ## License
 
@@ -16,7 +16,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unite
 
 ## Abstract
 
-The next generation of ground-based interferometric gravitational wave detectors will observe mergers of black holes and neutron stars throughout cosmic time. A large number of the binary neutron star merger events will be observed with extreme high fidelity, and will provide stringent constraints on the equation of state of nuclear matter. In this paper, we investigate the systematic improvement in the measurability of the equation of state with increase in detector sensitivity by combining constraints obtained on the radius of a $1.4 M_{\odot}$ neutron star from a simulated source population. Since the measurability of the equation of state (EoS) depends on its stiffness, we consider a range of realistic equations of state that span the current observational constraints. We show that a single 40 km Cosmic Explorer detector can pin down the neutron star radius for a soft, medium and stiff equation of state to an accuracy of 10 m within a decade, whereas the current generation of ground-based detectors like the Advanced LIGO-Virgo network would take $\mathcal{O}(10^5)$ years to do so for a soft equation of state. 
+The next generation of ground-based interferometric gravitational wave detectors will observe mergers of black holes and neutron stars throughout cosmic time. A large number of the binary neutron star merger events will be observed with extreme high fidelity, and will provide stringent constraints on the equation of state of nuclear matter. In this paper, we investigate the systematic improvement in the measurability of the equation of state with increase in detector sensitivity by combining constraints obtained on the radius of a $1.4 M_{\odot}$ neutron star from a simulated source population. Since the measurability of the equation of state (EoS) depends on its stiffness, we consider a range of realistic equations of state that span the current observational constraints. We show that a single 40km Cosmic Explorer detector can pin down the neutron star radius for a soft, medium and stiff equation of state to an accuracy of 10m within a decade, whereas the current generation of ground-based detectors like the Advanced LIGO-Virgo network would take $\mathcal{O}(10^5)$ years to do so for a soft equation of state. 
 
 ## Summary of Contents
 
@@ -36,4 +36,4 @@ Following is a summary of the scripts, data and other supplementary material inc
 
 ## Funding
 
-This work is supported by NSF awards PHY-2011655(AB, DAB, KK), PHY-2207264 and PHY-2116686(DAB, RS). Computations were supported through computational resources provided by Syracuse University. 
+This work is supported by NSF awards PHY-2011655(AB, DAB), PHY-2207264(DAB), PHY-2309240 (AHN, KK, DAB) and PHY-2116686(RS). Computations were supported through computational resources provided by Syracuse University. 
