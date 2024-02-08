@@ -26,7 +26,7 @@ Following is a summary of the scripts, data and other supplementary material inc
 
 * `psds` : Directory containing noise curves used for custom detectors, $\rm A^{\sharp}$ (taken from https://dcc.ligo.org/LIGO-T2300041/public), a 20km Cosmic Explorer (CE20) and a 40km Cosmic Explorer (CE40) (taken from  https://dcc.cosmicexplorer.org/CE-T2000017).
 
-* `posteriors_files` : Directory containing compressed files for the inferred posterior distributions for the radius of a $1.4 M_{\odot}$ neutron star, used for the EoS-inference analysis. 
+* `posterior_data` : Directory containing compressed files for the inferred posterior distributions for the radius of a $1.4 M_{\odot}$ neutron star, used for the EoS-inference analysis. 
 
 * `scripts` : Directory containing scripts to create injections, perform the Bayesian-inference analysis and reproduce figures from the paper. 
 
